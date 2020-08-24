@@ -1,6 +1,6 @@
 # File browsering example
 
-Converts flat file system structure to hierarchical and simple structure.
+Converts flat file system structure to hierarchical structure.<br />
 Visualization by material-ui TreeView component.
 
 Data source is in 'data' folder.
