@@ -1,8 +1,10 @@
 # File browsering example
-    Converts flat file system structure to hierarchical and simple structure visualization by material-ui TreeView component
 
-    Data source is in 'data' folder.
-    'FileBrowser' component.
+Converts flat file system structure to hierarchical and simple structure.
+Visualization by material-ui TreeView component.
+
+Data source is in 'data' folder.
+'FileBrowser' component.
 
 ## Available Scripts
 
